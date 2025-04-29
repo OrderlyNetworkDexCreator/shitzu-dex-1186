@@ -2,13 +2,13 @@
   --oui-font-family: 'Manrope', sans-serif;
 
   /* colors */
-  --oui-color-primary: 176 132 233;
-  --oui-color-primary-light: 213 190 244;
-  --oui-color-primary-darken: 137 76 209;
+  --oui-color-primary: 87 146 255;
+  --oui-color-primary-light: 166 191 255;
+  --oui-color-primary-darken: 54 101 216;
   --oui-color-primary-contrast: 255 255 255;
 
-  --oui-color-link: 189 107 237;
-  --oui-color-link-light: 217 152 250;
+  --oui-color-link: 144 215 255;
+  --oui-color-link-light: 189 233 255;
 
   --oui-color-secondary: 255 255 255;
   --oui-color-tertiary: 218 218 218;
@@ -32,31 +32,31 @@
   --oui-color-fill: 36 32 47;
   --oui-color-fill-active: 40 46 58;
 
-  --oui-color-base-1: 93 83 123;
-  --oui-color-base-2: 81 72 107;
-  --oui-color-base-3: 68 61 69;
-  --oui-color-base-4: 57 52 74;
-  --oui-color-base-5: 51 46 66;
-  --oui-color-base-6: 43 38 56;
-  --oui-color-base-7: 36 32 47;
-  --oui-color-base-8: 29 26 38;
-  --oui-color-base-9: 22 20 28;
-  --oui-color-base-10: 14 13 18;
+  --oui-color-base-1: 122 104 173;
+  --oui-color-base-2: 107 89 151;
+  --oui-color-base-3: 92 76 129;
+  --oui-color-base-4: 78 63 109;
+  --oui-color-base-5: 66 53 90;
+  --oui-color-base-6: 56 45 76;
+  --oui-color-base-7: 48 38 65;
+  --oui-color-base-8: 38 30 55;
+  --oui-color-base-9: 28 23 44;
+  --oui-color-base-10: 18 16 33;
 
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
 
   --oui-color-trading-loss: 245 97 139;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 41 233 169;
+  --oui-color-trading-profit: 34 255 144;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
-  --oui-gradient-primary-start: 40 0 97;
-  --oui-gradient-primary-end: 189 107 237;
+  --oui-gradient-primary-start: 109 147 255;
+  --oui-gradient-primary-end: 144 215 255;
 
   --oui-gradient-secondary-start: 81 42 121;
-  --oui-gradient-secondary-end: 176 132 233;
+  --oui-gradient-secondary-end: 87 146 255;
 
   --oui-gradient-success-start: 1 83 68;
   --oui-gradient-success-end: 41 223 169;
